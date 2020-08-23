@@ -6,4 +6,4 @@ class InsertGitBranch {
         console.log(compiler, "insernt")
     }
 }
-export default InsertGitBranch
+module.exports = InsertGitBranch
